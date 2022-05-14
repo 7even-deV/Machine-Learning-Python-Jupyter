@@ -1,0 +1,29 @@
+{
+  "cSpell.ignoreWords": [
+    "Checkin",
+    "Dimensiones",
+    "Modelo",
+    "XtestScaled",
+    "XtrainScaled",
+    "airbnb",
+    "barh",
+    "dropna",
+    "dtypes",
+    "fillna",
+    "importances",
+    "inplace",
+    "preds",
+    "pyplot",
+    "quantile",
+    "semilogx",
+    "set_ylabel",
+    "sklearn",
+    "xlabel",
+    "ylabel",
+    "ytestLasso",
+    "ytestRidge",
+    "yticks",
+    "ytrainLasso",
+    "ytrainRidge"
+  ]
+}
